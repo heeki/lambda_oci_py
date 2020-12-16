@@ -1,0 +1,10 @@
+# compiled
+*.pyc
+
+# config
+etc/*
+notes.md
+
+# tmp
+iac/*_output.yaml
+tmp/
